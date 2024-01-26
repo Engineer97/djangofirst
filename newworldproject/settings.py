@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# 히히히히히히히히히히히 오늘 술먹는다.
+
 
 # Application definition
 
